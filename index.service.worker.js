@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793567778|55450616';
+const CACHE_VERSION = '1793738938|57375616';
 /** @type {string} */
 const CACHE_PREFIX = 'MedSim-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
